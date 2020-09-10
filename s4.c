@@ -1,4 +1,4 @@
 void main(void)
 {
-	m = 0;	//@m_0
+	d_2 = 0;	//@d_2
 }
